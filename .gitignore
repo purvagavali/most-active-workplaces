@@ -1,0 +1,20 @@
+# Prisma
+/prisma/migrations/
+/prisma/dev.db*
+/prisma/*.db
+/prisma/*.db-journal
+
+# Test artifacts
+/test/ctrf/
+/test/junit/
+/test/coverage/
+/test/reports/
+
+# Node dependencies
+/node_modules/
+
+# Build output
+/dist/
+
+# Environment variables
+.env
